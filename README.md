@@ -10,7 +10,6 @@ Developed for **CENG 469: Computer Graphics II** at Middle East Technical Univer
 
 Read the full technical breakdown, numerical integration schemes, and stress-test benchmarks:
 
-* 👉 **[Live Documentation Site (GitHub Pages)](https://esatcivitci.github.io/particle-magic/)**
 * 👉 **[Read Directly on GitHub (`docs/index.md`)](docs/index.md)**
 
 ---
