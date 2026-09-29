@@ -1,0 +1,10 @@
+cat << 'EOF' > .gitignore
+venv/
+site/
+__pycache__/
+.DS_Store
+*.o
+*.out
+main
+hw3.zip
+EOF
